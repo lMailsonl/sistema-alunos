@@ -16,7 +16,7 @@ $resultado = $conn->query($sql);
 
 <body>
     <div id="conteiner">
-        <h1 id="titulo">Sistema de Alunos</h1>
+        <h1 id="titulo">Formulário de Alunos</h1>
 
         <h2>Alunos Cadastrados</h2>
 
